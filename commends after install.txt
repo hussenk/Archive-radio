@@ -1,0 +1,17 @@
+cd to file laravel project
+
+first commend 
+
+1-
+
+composer install 
+
+2-
+
+php artisan key:gen
+
+3- 
+php artisan migrate
+
+4-
+npm install
